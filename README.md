@@ -1,4 +1,5 @@
-https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=header&reversal=true&textBg=false
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=header&reversal=true&textBg=false)
+
 
 <h2 align="left">Hi 👋! Welcome to my perfil..</h2>
 
