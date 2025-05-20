@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Redes sociais:</h4>
+<h4 align="left">_Redes sociais:_</h4>
 
 ###
 
