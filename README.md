@@ -10,6 +10,8 @@
 
 ###
 
+<div align="center">
+
 <h4 align="left">Redes sociais:</h4>
 
 ###
