@@ -5,12 +5,10 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://projectpokemon.org/home/uploads/monthly_2021_09/205694573_large.Animated4.gif.f7175d08944acb589e6afd7349208047.gif"  />
+  <img height="250" src="https://projectpokemon.org/home/uploads/monthly_2021_09/205694573_large.Animated4.gif.f7175d08944acb589e6afd7349208047.gif"  />
 </div>
 
 ###
-
-<div align="center">
 
 <h4 align="left">Redes sociais:</h4>
 
@@ -44,19 +42,17 @@
 
 ###
 
-<img align="right" height="100" src="https://projectpokemon.org/home/uploads/monthly_2017_08/large.599897df82d9a_PtHGSSShinyFrame1.png.d876b60fb7bf3b5772e21d8c8e5cc609.png"  />
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EvelynYs2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvelynYs2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvelynYs2&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="120" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="right">
-  <img height="100" src="https://projectpokemon.org/home/uploads/monthly_2017_08/large.599897e20cf69_PtHGSSShinyFrame2.png.44fede7e6395d85b71747a4838fb7f57.png"  />
-</div>
+<img align="left" height="100" src="https://projectpokemon.org/home/uploads/monthly_2017_08/large.599897e20cf69_PtHGSSShinyFrame2.png.44fede7e6395d85b71747a4838fb7f57.png"  />
+
+###
+
+<img align="right" height="100" src="https://projectpokemon.org/home/uploads/monthly_2017_08/large.599897df82d9a_PtHGSSShinyFrame1.png.d876b60fb7bf3b5772e21d8c8e5cc609.png"  />
 
 ###
