@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Redes sociais:</h4>
+### *Redes sociais:*
 
 ###
 
@@ -28,7 +28,8 @@
 
 ###
 
-<p align="left">Linguagens:</p>
+### *Linguagens:*
+
 
 ###
 
