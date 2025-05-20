@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=1E90FF&section=header&reversal=true&textBg=false)
 
-
 <h2 align="left">Hi 👋! Welcome to my perfil..</h2>
 
 ###
@@ -8,6 +7,10 @@
 <div align="center">
   <img height="250" src="https://projectpokemon.org/home/uploads/monthly_2018_05/large.Glaceon.gif.f8cc3f84c32d2f04e2718f425ff879d1.gif"  />
 </div>
+
+###
+
+<h4 align="left">Redes sociais:</h4>
 
 ###
 
@@ -25,16 +28,14 @@
 
 ###
 
+<p align="left">Linguagens:</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
