@@ -42,9 +42,9 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EvelynYs2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvelynYs2&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvelynYs2&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -54,5 +54,9 @@
 ###
 
 <img align="right" height="100" src="https://projectpokemon.org/home/uploads/monthly_2017_08/large.599897df82d9a_PtHGSSShinyFrame1.png.d876b60fb7bf3b5772e21d8c8e5cc609.png"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/EvelynYs2/EvelynYs2/output/snake.svg" alt="Snake animation" />
 
 ###
